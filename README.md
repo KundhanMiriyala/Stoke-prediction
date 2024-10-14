@@ -21,3 +21,4 @@ evaluation.
 The dataset used for this project is sourced from Kaggle and can be accessed [Kaggle | Health dataset](https://www.kaggle.com/datasets/prosperchuks/health-dataset/data). This dataset is mostly preprocessed, making it suitable for immediate use in modeling and analysis. It includes various health metrics and demographic factors essential for predicting stroke , and also dataset for Diabetes and Hypertension are avaiable in the same link
 
 
+##Random Forest demonstrated the highest accuracy among the models, with a cross-validation score of 0.997 and a test set score of 0.999
